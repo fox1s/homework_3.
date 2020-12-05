@@ -1,0 +1,21 @@
+.postDiv {
+    margin-bottom: 20px;
+}
+
+.titlePost {
+    font-size: 20px;
+    color: #531313;
+    font-weight: bold;
+}
+
+.bodyOfPost {
+    margin-left: 22px;
+}
+
+.btn {
+    margin-left: 10px;
+    color: #531313;
+    background-color: #e35959;
+    border: 2px solid #e35959;
+    border-radius: 20px;
+}
